@@ -1,2 +1,4 @@
 # R57-Shell
 Çok eski shellerden biriside r57 shell eskiden çok iş yapmış shellerden birisi olan <a href="http://4hackerz.org" title="r57 shell">r57 shell</a> zamanında c99 shell ile birlikte en çok kullanılan shellerden birisidir.Fakat kullanışı bir o kadar kolay değildir.C99 shell ile rahatça düzenleme yapabilirsiniz.Fakat r57 shell için kullanım bilgisi şarttır.Bunun için altta r57 shell nasıl kullanılır. R57 Dosya düzenleme videosu vardır.R57 Shell ile yapabilceğiniz şeyler dosya düzenleme sql ile bağlanma,dosyaların yazma izinlerini görebilme,Sunucudaki diğer siteleri görme gibi bir özelliği vardır.R57.txt  ve r57.php klosörünü alt sayfada bulabilirsiniz.r57.php kullanıp siteye shell sokabilirsiniz.  R57 nedir ? R57 Nasıl kullanılır ? R57 ile sunucudaki siteleri görebilme.
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/bhEKPOpb3ic" frameborder="0" allowfullscreen></iframe>
